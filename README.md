@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Recat , Javascript**
+- 💬 Ask me about **React , Javascript**
 
 - 📫 How to reach me **abhishekgurjarofcl@gmail.com**
 
